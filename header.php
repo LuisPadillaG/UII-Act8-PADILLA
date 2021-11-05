@@ -10,7 +10,7 @@
 	<header>
 		<div class="wrapp">
 			<div class="logo">
-            <a href="#"><img src="img/hotellogo.png" alt="FalconMasters"></a>
+            <a href="#"><img src="hotellogo.png" alt="FalconMasters"></a>
 			</div>
 			<nav>
 				<ul>
